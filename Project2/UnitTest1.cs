@@ -9,7 +9,7 @@ namespace Project2
         [TestMethod]
         public void TestMethod1()
         {
-            Console.WriteLine("Ya Ya Ya!");
+            Console.WriteLine("Ya Ya Ya! 2");
         }
     }
 }
